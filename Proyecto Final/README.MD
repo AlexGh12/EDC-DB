@@ -6,8 +6,6 @@
 
 ### Script para la base de datos
 
-Creamos tabla de productos y fabricantes con llave foranea
-
 ```sql
 CREATE TABLE proveedor (
     codigo_proveedor INT PRIMARY KEY,
